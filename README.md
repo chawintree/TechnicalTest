@@ -43,8 +43,8 @@ There are two classes within the `TaskTwo` folder: `TextInput` and `NumberInput`
 
 ``` csharp
     var input = new TextInput();
-    input.Add("H");
     input.Add("4");
+    input.Add("H");
 ```
 
 The initial structure of the classes is simply a guideline - the only requirement is that the classes have the methods `Add()` & `GetValue()` and the above functionality is met.
