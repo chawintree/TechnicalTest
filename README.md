@@ -42,7 +42,7 @@ There are two classes within the `TaskTwo` folder: `TextInput` and `NumberInput`
 `NumberInput` should perform the same behaviour as `TextInput`, except that when a non-numerical character is entered an `ArgumentException` should be thrown. For example, the following will throw an exception on line 3:
 
 ``` csharp
-    var input = new TextInput();
+    var input = new NumberInput();
     input.Add("4");
     input.Add("H");
 ```
