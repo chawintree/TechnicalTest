@@ -60,7 +60,7 @@ This task involves examining a user story, with requirements, and providing a pr
 
 * A user enters a postal code and receives a list of restaurants
 * Restaurants should include a name, address, type of food and contact information 
-* A valid code must be entered, otherwise a error message is shown
+* A valid postal code must be entered, otherwise an error message is shown
 
 ### Notes
 
@@ -69,6 +69,7 @@ This task involves examining a user story, with requirements, and providing a pr
 * Enterprise level code is not required, but good software design is still expected
 * Any UI can be used, such as a command line application, web app etc.
 * As it is a PoC there is no existing data, from a database or otherwise - feel free to return hard coded data to the user.
+* Requirements are limited to allow for more creative solutions!
 
 ## Task Four
 You've made it this far! For the final task, please answer the below questions to the best of your ability:
