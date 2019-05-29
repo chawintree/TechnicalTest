@@ -50,7 +50,25 @@ There are two classes within the `TaskTwo` folder: `TextInput` and `NumberInput`
 The initial structure of the classes is simply a guideline - the only requirement is that the classes have the methods `Add()` & `GetValue()` and the above functionality is met.
 
 ## Task Three
-**TODO**
+This task involves examining a user story, with requirements, and providing a proof of concept (PoC) solution for the user.
+
+### User Story
+
+*As a **customer**, I want to **get a list of restaurants using a postal code** so that **I know local places to eat**.*
+
+### Requirements
+
+* A user enters a postal code and receives a list of restaurants
+* Restaurants should include a name, address, type of food and contact information 
+* A valid code must be entered, otherwise a error message is shown
+
+### Notes
+
+* New projects and classes can be created within `TechnicalTest.sln`
+* The PoC should include unit tests covering functionality
+* Enterprise level code is not required, but good software design is still expected
+* Any UI can be used, such as a command line application, web app etc.
+* As it is a PoC there is no existing data, from a database or otherwise - feel free to return hard coded data to the user.
 
 ## Task Four
 You've made it this far! For the final task, please answer the below questions to the best of your ability:
@@ -60,6 +78,10 @@ You've made it this far! For the final task, please answer the below questions t
 *Answer here*
 
 **After completing task two, did you utilise inheritence / polymorphism? If so, why?**
+
+*Answer here*
+
+**Is there anything you didn't get to finish or wanted to improve in task three?**
 
 *Answer here*
 
