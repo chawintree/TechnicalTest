@@ -74,7 +74,3 @@ You've made it this far! For the final task, please answer the below questions t
 **Is there any upcoming technology that you're excited about?**
 
 *Answer here*
-
-**Does P = NP?** 
-
-*Answer here*
